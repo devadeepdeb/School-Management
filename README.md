@@ -20,6 +20,7 @@ https://github.com/devadeepdeb/School-Management
 <h2>Output 2</h2>
 <p>Admin login form and click on Submit button</p>
 <img src="Images/2.PNG">
+<h2>Output 3</h2>
 <p>Acceptance of admin credentials and Option to go to Reports</p>
 <p>Option for Managing Report of School with these details:</p>
 <p>Option to Manage Teachers</p>
@@ -28,3 +29,15 @@ https://github.com/devadeepdeb/School-Management
 <p>Option to Manage Students</p>
 <p>Mapping of Teachers, Subjects, Classes, Subjects</p>
 <img src="Images/3.PNG">
+<h2>Output 4</h2>
+<p>Choices of Managing Teachers</p>
+<p>1Option for Managing Report of School with these details:</p>
+<p>1) Insert new record</p>
+<p>2) Update existing record</p>
+<p>3) Delete record</p>
+<p>4) Show all records</p>
+<p>Mapping of Teachers, Subjects, Classes, Subjects</p>
+<img src="Images/3.PNG">
+
+
+
