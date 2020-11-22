@@ -104,3 +104,17 @@ https://github.com/devadeepdeb/School-Management
 <p>5) assignment (tid - foreign key referencing to teacher table, cid - foreign key referencing to class table and unique, sid - foreign key referencing to subject table, stid - foreign key referencing to student table and unique) for assignment</p>
 <p>6) login (username, password) for admin</p>
 <img src="Images/41.PNG">
+<h1>Application Algorithm</h1>
+<pre>
+1) Start.
+2) Welcome Screen to Print Application, Developer Name and admin link to login.
+3) Admin logins and get the 5 options to manage - teacher, subject, class, student, login and assignment (for mapping).
+4) For each of these 5 options, there are 4 sub-options to add, update, delete and show records.
+5) Enter values in sub-options except show records.
+5a) If correct values entered, success message and return to 5) and continue.
+5b) If incorrect values entered, re-enter/failure message and return to 5) and continue.
+6) See tables of each 5 options. 
+7) End
+</pre>
+<h1>Application Flowchart</h1>
+<img src="School-Flowchart.PNG"
