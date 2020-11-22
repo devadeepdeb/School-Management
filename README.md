@@ -94,12 +94,22 @@ https://github.com/devadeepdeb/School-Management
 <p>Students 4 operations with validation</p>
 <p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Student_ID (stid).</p>
 <p>There are two Student Columns: Student_ID (stid) and Student_Name (stname).</p>
-
+<img src="Images/48.PNG">
+<img src="Images/49.PNG">
+<img src="Images/50.PNG">
+<img src="Images/51.PNG">
+<img src="Images/52.PNG">
+<img src="Images/53.PNG">
 <h2>Output 9</h2>
 <p>Assignments 4 operations with validation for mapping of Teachers, Subjects, Classes, Students</p>
 <p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Student_ID (stid).</p>
 <p>There are four Columns: Teacher_ID (tid), Subject_ID (sid), Class_ID (cid) and Student_ID (stid) where a teacher can be assigned to different classes for different subjects and one to one for student-class.</p>
-
+<img src="Images/54.PNG">
+<img src="Images/55.PNG">
+<img src="Images/56.PNG">
+<img src="Images/57.PNG">
+<img src="Images/58.PNG">
+<img src="Images/59.PNG">
 <h1>Database is schooldb. Used phpMyAdmin for mysql to create database and table</h1>
 <p>Used 6 tables in that database:</p>
 <p>1) teacher (tid - primary, tname - unique) for teachers</p>
@@ -108,6 +118,7 @@ https://github.com/devadeepdeb/School-Management
 <p>4) student (sid - primary, sname - unique) for student</p>
 <p>5) assignment (tid - foreign key referencing to teacher table, cid - foreign key referencing to class table and unique, sid - foreign key referencing to subject table, stid - foreign key referencing to student table and unique) for assignment</p>
 <p>6) login (username, password) for admin</p>
+<p>All Mysql queries are available in dao model of source code</p>
 <img src="Images/41.PNG">
 <h1>Application Algorithm</h1>
 <pre>
