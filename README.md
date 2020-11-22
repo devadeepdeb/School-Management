@@ -84,7 +84,12 @@ https://github.com/devadeepdeb/School-Management
 <p>Classes 4 operations with validation</p>
 <p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Class_ID (cid).</p>
 <p>There are two Class Columns: Class_ID (cid) and Class_Name (cname).</p>
-
+<img src="Images/42.PNG">
+<img src="Images/43.PNG">
+<img src="Images/44.PNG">
+<img src="Images/45.PNG">
+<img src="Images/46.PNG">
+<img src="Images/47.PNG">
 <h2>Output 8</h2>
 <p>Students 4 operations with validation</p>
 <p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Student_ID (stid).</p>
@@ -93,7 +98,7 @@ https://github.com/devadeepdeb/School-Management
 <h2>Output 9</h2>
 <p>Assignments 4 operations with validation for mapping of Teachers, Subjects, Classes, Students</p>
 <p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Student_ID (stid).</p>
-<p>There are two Student Columns: Student_ID (stid) and Student_Name (stname).</p>
+<p>There are four Columns: Teacher_ID (tid), Subject_ID (sid), Class_ID (cid) and Student_ID (stid) where a teacher can be assigned to different classes for different subjects and one to one for student-class.</p>
 
 <h1>Database is schooldb. Used phpMyAdmin for mysql to create database and table</h1>
 <p>Used 6 tables in that database:</p>
