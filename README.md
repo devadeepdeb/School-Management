@@ -11,3 +11,9 @@ Learner's Academy is an Application implementing data maintaining features and 4
 </pre>
 <h1>Project Github Repository url</h1>
 https://github.com/devadeepdeb/School-Management
+<h1>Output</h1>
+<h3>Code to display the welcome screen. It should display:</h3>
+<h2>Output 1</h2>
+<p>Main application window: Application name and the developer details</p>
+<p>Admin Login link</p>
+<img src="Images/1.PNG">
