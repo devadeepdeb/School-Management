@@ -90,7 +90,17 @@ https://github.com/devadeepdeb/School-Management
 <p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Student_ID (stid).</p>
 <p>There are two Student Columns: Student_ID (stid) and Student_Name (stname).</p>
 
-<h2>Output 8</h2>
+<h2>Output 9</h2>
 <p>Assignments 4 operations with validation for mapping of Teachers, Subjects, Classes, Students</p>
 <p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Student_ID (stid).</p>
 <p>There are two Student Columns: Student_ID (stid) and Student_Name (stname).</p>
+
+<h1>Database is schooldb. Used phpMyAdmin for mysql to create database and table</h1>
+<p>Used 6 tables in that database:</p>
+<p>1) teacher (tid - primary, tname - unique) for teachers</p>
+<p>2) subject (sid - primary, sname - unique) for subjects</p>
+<p>3) clas (cid - primary, cname - unique) for class</p>
+<p>4) student (sid - primary, sname - unique) for student</p>
+<p>5) assignment (tid - foreign key referencing to teacher table, cid - foreign key referencing to class table and unique, sid - foreign key referencing to subject table, stid - foreign key referencing to student table and unique) for assignment</p>
+<p>6) login (username, password) for admin</p>
+<img src="Images/41.PNG">
