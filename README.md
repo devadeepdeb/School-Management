@@ -57,4 +57,26 @@ https://github.com/devadeepdeb/School-Management
 <img src="Images/19.PNG">
 <img src="Images/20.PNG">
 <img src="Images/21.PNG">
-
+<h2>Output 6</h2>
+<p>Subjects 4 operations with validation</p>
+<p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Subject_ID (sid).</p>
+<p>There are two Subject Columns: Subject_ID (tid) and Subject_Name (tname).</p>
+<img src="Images/22.PNG">
+<img src="Images/23.PNG">
+<img src="Images/24.PNG">
+<img src="Images/25.PNG">
+<img src="Images/26.PNG">
+<img src="Images/27.PNG">
+<img src="Images/28.PNG">
+<img src="Images/29.PNG">
+<img src="Images/30.PNG">
+<img src="Images/31.PNG">
+<img src="Images/32.PNG">
+<img src="Images/33.PNG">
+<img src="Images/34.PNG">
+<img src="Images/35.PNG">
+<img src="Images/36.PNG">
+<img src="Images/37.PNG">
+<img src="Images/38.PNG">
+<img src="Images/39.PNG">
+<img src="Images/40.PNG">
