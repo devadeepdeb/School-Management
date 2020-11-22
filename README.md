@@ -17,3 +17,14 @@ https://github.com/devadeepdeb/School-Management
 <p>Main application window: Application name and the developer details</p>
 <p>Admin Login link</p>
 <img src="Images/1.PNG">
+<h2>Output 2</h2>
+<p>Admin login form and click on Submit button</p>
+<img src="Images/2.PNG">
+<p>Acceptance of admin credentials and Option to go to Reports</p>
+<p>Option for Managing Report of School with these details:</p>
+<p>Option to Manage Teachers</p>
+<p>Option to Manage Subjects</p>
+<p>Option to Manage Classes</p>
+<p>Option to Manage Students</p>
+<p>Mapping of Teachers, Subjects, Classes, Subjects</p>
+<img src="Images/3.PNG">
