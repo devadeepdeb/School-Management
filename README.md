@@ -80,3 +80,17 @@ https://github.com/devadeepdeb/School-Management
 <img src="Images/38.PNG">
 <img src="Images/39.PNG">
 <img src="Images/40.PNG">
+<h2>Output 7</h2>
+<p>Classes 4 operations with validation</p>
+<p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Class_ID (cid).</p>
+<p>There are two Class Columns: Class_ID (cid) and Class_Name (cname).</p>
+
+<h2>Output 8</h2>
+<p>Students 4 operations with validation</p>
+<p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Student_ID (stid).</p>
+<p>There are two Student Columns: Student_ID (stid) and Student_Name (stname).</p>
+
+<h2>Output 8</h2>
+<p>Assignments 4 operations with validation for mapping of Teachers, Subjects, Classes, Students</p>
+<p>Records will be added/updated/deleted on the basis of primary key and uniqueness of values. Updation/Deletion will be based on Student_ID (stid).</p>
+<p>There are two Student Columns: Student_ID (stid) and Student_Name (stname).</p>
