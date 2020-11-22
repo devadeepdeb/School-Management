@@ -117,4 +117,4 @@ https://github.com/devadeepdeb/School-Management
 7) End
 </pre>
 <h1>Application Flowchart</h1>
-<img src="Flowchart.PNG">
+<img src="Images/Flowchart.PNG">
