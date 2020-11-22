@@ -129,6 +129,7 @@ https://github.com/devadeepdeb/School-Management
 <p>Operating System: Windows 10</p>
 <p>Java Compiler Version: 1.8</p>
 <p>Java Concepts Used: Exception, If-else, Class, Function, Packages, JSP, Servlet, Maven</p>
+<p>Web Server: Apache Tomcat 9.0</p>
 <p>Mysql database administration tool: phpMyAdmin</p>
 <h1>Data Structures</h1>
 <p>Sequential Search: In this, the list or array  (here a list of files) is traversed sequentially and every element is checked. In this application Linear Searching is used to search data in tables.</p>
