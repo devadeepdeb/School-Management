@@ -31,13 +31,10 @@ https://github.com/devadeepdeb/School-Management
 <img src="Images/3.PNG">
 <h2>Output 4</h2>
 <p>Choices of Managing Teachers</p>
-<p>1Option for Managing Report of School with these details:</p>
 <p>1) Insert new record</p>
 <p>2) Update existing record</p>
 <p>3) Delete record</p>
 <p>4) Show all records</p>
-<p>Mapping of Teachers, Subjects, Classes, Subjects</p>
-<img src="Images/3.PNG">
-
+<img src="Images/4.PNG">
 
 
