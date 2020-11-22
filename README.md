@@ -118,3 +118,19 @@ https://github.com/devadeepdeb/School-Management
 </pre>
 <h1>Application Flowchart</h1>
 <img src="Images/Flowchart.PNG">
+<h1>Agile Framework</h1>
+<p>I have used Agile Scrum Methodology to deliver this Application taking 2 Sprints, considering 1 Sprint per week.</p>
+<p>In first week, I have installed Apache Tomcat 9.0 for server, phpMyadmin for mysql and worked to prepare Servlet files </p>
+<p>In second week, I have created JSP files with modifications, integrations and compilations to test final application in localhost via server localhost for delivery and then pushed source code to GitHub via Git Bash with documentation.</p>
+<h1>Core Concepts</h1>
+<p>IDE : Eclipse Oxygen</p>
+<p>Command Line Emulator Used: Git Bash 2.28.0 version</p>
+<p>Git repository hosting service: GitHub</p>
+<p>Operating System: Windows 10</p>
+<p>Java Compiler Version: 1.8</p>
+<p>Java Concepts Used: Exception, If-else, Class, Function, Packages, JSP, Servlet, Maven</p>
+<p>Mysql database administration tool: phpMyAdmin</p>
+<h1>Data Structures</h1>
+<p>Sequential Search: In this, the list or array  (here a list of files) is traversed sequentially and every element is checked. In this application Linear Searching is used to search data in tables.</p>
+<h1>Conclusion</h1>
+<p>Application can be enhanced further by adding images and more formatting styles</p>
