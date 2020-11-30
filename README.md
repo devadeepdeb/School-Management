@@ -1,8 +1,8 @@
 # School-Management
-Learner's Academy is a School Management Application to maintain records of teachers, students, classes, subject via an administrative login
+Learner's Academy is a School Management Application to maintain records of teachers, students, classes, subject, mapping via an administrative login
 <h1>Project Overview</h1>
 <pre>
-Learner's Academy is an Application implementing data maintaining features and 4 operations for all 4 tables (teacher, student, clas, subject)
+Learner's Academy is an Application implementing data maintaining features and 4 operations for all 4 tables (teacher, student, clas, subject) and mapping in assignment table
 
 1) Insert new record
 2) Update existing record
@@ -118,7 +118,7 @@ https://github.com/devadeepdeb/School-Management
 <p>4) student (sid - primary, sname - unique) for student</p>
 <p>5) assignment (tid - foreign key referencing to teacher table, cid - foreign key referencing to class table and unique, sid - foreign key referencing to subject table, stid - foreign key referencing to student table and unique) for assignment</p>
 <p>6) login (username, password) for admin</p>
-<p>All Mysql queries are available in dao model of source code</p>
+<p>All Mysql queries and database connection credentials are available in dao model of source code</p>
 <img src="Images/41.PNG">
 <h1>Application Algorithm</h1>
 <pre>
