@@ -150,4 +150,5 @@ https://github.com/devadeepdeb/School-Management
 <h1>Data Structures</h1>
 <p>Sequential Search: In this, the list or array  (here a list of files) is traversed sequentially and every element is checked. In this application Linear Searching is used to search data in tables.</p>
 <h1>Conclusion</h1>
-<p>Application can be enhanced further by adding images and more formatting styles</p>
+<p>Application can be enhanced further by adding images, more formatting styles and facilating multiple admin registration.</p>
+<p>Currently login <b>username : devadeep</b> and <b>password : devadeep</b> has been set for this application.</p>
