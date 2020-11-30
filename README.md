@@ -110,16 +110,17 @@ https://github.com/devadeepdeb/School-Management
 <img src="Images/57.PNG">
 <img src="Images/58.PNG">
 <img src="Images/59.PNG">
-<h1>Database is schooldb. Used phpMyAdmin for mysql to create database and table</h1>
+<h1>Database is schooldb. Used XAMPP phpMyAdmin for mysql to create database and table</h1>
 <p>Used 6 tables in that database:</p>
 <p>1) teacher (tid - primary, tname - unique) for teachers</p>
 <p>2) subject (sid - primary, sname - unique) for subjects</p>
 <p>3) clas (cid - primary, cname - unique) for class</p>
 <p>4) student (sid - primary, sname - unique) for student</p>
-<p>5) assignment (tid - foreign key referencing to teacher table, cid - foreign key referencing to class table and unique, sid - foreign key referencing to subject table, stid - foreign key referencing to student table and unique) for assignment</p>
+<p>5) assignment (tid - foreign key referencing to teacher table, cid - foreign key referencing to class table and unique, sid - foreign key referencing to subject table, stid - foreign key referencing to student table and unique) for assignment. Foreign keys are set to CASCADE for ON DELETE/ON UPDATE Constraints, so admin can modify Child table records as well.</p>
 <p>6) login (username, password) for admin</p>
 <p>All Mysql queries and database connection credentials are available in dao model of source code</p>
 <img src="Images/41.PNG">
+<img src="Images/DB.PNG">
 <h1>Application Algorithm</h1>
 <pre>
 1) Start.
@@ -146,7 +147,7 @@ https://github.com/devadeepdeb/School-Management
 <p>Java Compiler Version: 1.8</p>
 <p>Java Concepts Used: Exception, If-else, Class, Function, Packages, JSP, Servlet, Maven</p>
 <p>Web Server: Apache Tomcat 9.0</p>
-<p>Mysql database administration tool: phpMyAdmin</p>
+<p>Mysql database administration tool: XAMPP phpMyAdmin</p>
 <h1>Data Structures</h1>
 <p>Sequential Search: In this, the list or array  (here a list of files) is traversed sequentially and every element is checked. In this application Linear Searching is used to search data in tables.</p>
 <h1>Conclusion</h1>
